@@ -1,6 +1,8 @@
 # Satis - composer repository
 Used for building your own composer repository using [composer/satis](https://github.com/composer/satis).
 
+NOTE: This is used by pco-bcp/satis in the github workflow.
+
 ## Inputs
 
 | Input        | Description                                                                                             | Required                     |
